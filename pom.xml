@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.i7i8i9</groupId>
     <artifactId>musicbird1</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>musicbird1</name>
     <description>musicbird1</description>
     <properties>
